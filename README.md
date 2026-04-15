@@ -33,24 +33,19 @@ This project simulates a real-world scenario where data is processed and visuali
 ### Data Visualization
 - Built dashboards using Looker
 - Visualizations include:
-  - Loan status distribution (Pie Chart)
-  - Total outstanding loan amount
-  - Loan distribution by state
-  - Top customers by income
+- Loan status distribution (Pie Chart)
+- Total outstanding loan amount
+- Loan distribution by state
+- Top customers by income
 
-## Screenshots
 
-(Add your screenshots here after uploading)
 
----
+## Certification
+[View Certificate]https://www.credly.com/badges/2b04771f-a739-436d-88bd-d518542ce229/public_url
 
-## 🎓 Certification
-[View Certificate](PASTE-YOUR-CREDLY-LINK-HERE)
-
----
-
-## 🚀 Skills Gained
+## Skills Gained
 - SQL querying
+- Data Analysis
 - Data modeling
 - Data visualization
 - Cloud-based analytics
