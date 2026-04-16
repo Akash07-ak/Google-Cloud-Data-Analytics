@@ -1,4 +1,4 @@
-#  Google Cloud Loan Data Analytics Project
+#  Google Cloud Data Analytics Certificate Program
 
 ## Program Structure
 
