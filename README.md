@@ -1,18 +1,44 @@
 #  Google Cloud Loan Data Analytics Project
 
-## Project Overview
+## Program Structure
 
-This project focuses on analyzing financial loan data using Google Cloud tools. The main goal is to understand loan performance, customer behavior, and risk patterns through data analysis and visualization.
-Using BigQuery, I explored and transformed raw loan datasets. Then, I used Looker to build interactive dashboards that provide insights into loan status, regional distribution, and customer trends.
-This project simulates a real-world scenario where data is processed and visualized to support business decision-making in the financial sector.
+The Google Cloud Data Analytics Certificate path consists of the following stages:
 
-## Objectives
+1. Introduction to Data Analytics in Google Cloud  
+2. Data Management and Storage in the Cloud  
+3. Data Transformation in the Cloud  
+4. The Power of Storytelling: How to Visualize Data in the Cloud  
+5. Put It All Together: Prepare for a Cloud Data Analyst Job  
 
-- Analyze loan distribution across different regions  
-- Track loan trends over time  
-- Understand the status of loans (e.g., current, late, charged off)  
-- Identify high-income customers with active loans  
-- Build a dashboard for easy business insights  
+There is a capstone project that represents the final stage where all the concepts and skills learned throughout the program are applied in a real-world data analytics scenario.
+
+## Project Overview 
+
+This project is the final capstone project of the Google Cloud Data Analytics Certificate program in Google Cloud Skills Boost. It demonstrates an end-to-end data analytics workflow using BigQuery and Looker.
+
+The project focuses on analyzing financial loan data to extract meaningful insights related to loan performance, customer behavior, and regional distribution.
+
+Using BigQuery, I performed data exploration and transformation. Then, I used Looker to build interactive dashboards for visualization and decision-making.
+
+This capstone project represents the application of all key concepts learned throughout the program in a real-world scenario.
+
+## Approach
+
+In this project, I followed a structured data analytics approach:
+
+- Explored and understood the dataset using BigQuery  
+- Performed data transformation using SQL queries  
+- Created new tables for better analysis (e.g., loan_with_region, loan_count_by_year)  
+- Selected appropriate dimensions and measures for analysis  
+- Built visualizations in Looker to represent key insights  
+- Designed a dashboard to present results clearly  
+
+This approach reflects how real-world data analytics problems are solved by transforming raw data into actionable insights.
+
+## Communication of Results
+
+This project demonstrates my ability to not only analyze data but also communicate insights effectively through dashboards and visualizations.  
+The final dashboard provides a clear and interactive way for stakeholders to understand loan performance.
 
 ## Tools & Technologies
 - Google BigQuery
