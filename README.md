@@ -38,8 +38,42 @@ This project simulates a real-world scenario where data is processed and visuali
 - Loan distribution by state
 - Top customers by income
 
+##  Project Implementation
 
+### State Region Mapping (BigQuery)
 
+![State Region](state-region.png)
+
+This table shows the mapping between states and their corresponding regions such as Midwest and Northeast.  
+It is used to enrich the loan dataset by adding geographical information for region-based analysis.
+
+### Loan Dataset with Region Information
+
+![Loan with Region](loan-with-region.png)
+
+In this step, I combined the loan dataset with regional data to create a new table (`loan_with_region`).  
+This helps analyze loan distribution across different regions.
+
+### Loan Count by Year (Aggregated Data)
+
+![Loan Count](loan-count-by-year.png)
+
+This table shows the total number of loans issued each year.  
+It helps identify trends and patterns in loan activity over time.
+
+### Looker Visualization Setup
+
+![Looker Visualization](looker-visualization.png)
+
+In this step, I created visualizations in Looker by selecting appropriate dimensions and measures.  
+This helps analyze loan status and outstanding balances for better insights.
+
+### Final Dashboard (Loan Insights)
+
+![Dashboard](dashboard.png)
+
+This is the final dashboard created in Looker, which includes multiple visualizations such as total outstanding loans, loan status distribution, and customer insights.  
+It provides a comprehensive view of loan performance to support decision-making.
 ## Certification
 [View Certificate]https://www.credly.com/badges/2b04771f-a739-436d-88bd-d518542ce229/public_url
 
