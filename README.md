@@ -61,19 +61,19 @@ This helps analyze loan distribution across different regions.
 This table shows the total number of loans issued each year.  
 It helps identify trends and patterns in loan activity over time.
 
-### Looker Visualization Setup
-
-![Looker Visualization](looker-visualization.png)
-
-In this step, I created visualizations in Looker by selecting appropriate dimensions and measures.  
-This helps analyze loan status and outstanding balances for better insights.
-
 ### Final Dashboard (Loan Insights)
 
 ![Dashboard](dashboard.png)
 
-This is the final dashboard created in Looker, which includes multiple visualizations such as total outstanding loans, loan status distribution, and customer insights.  
-It provides a comprehensive view of loan performance to support decision-making.
+This dashboard includes key visualizations such as total outstanding loans, loan status distribution, and regional analysis.  
+It provides a complete overview of loan performance.
+
+### Looker Visualization Setup
+
+![Looker Visualization](looker-visualization.png)
+
+This step shows how visualizations were configured in Looker using dimensions and measures.  
+It represents the process behind building the dashboard.
 ## Certification
 [View Certificate]https://www.credly.com/badges/2b04771f-a739-436d-88bd-d518542ce229/public_url
 
